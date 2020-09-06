@@ -1,4 +1,4 @@
-# These are demo files for vsFilt - a tool to improve virtual screening by structural filtration of docking poses
+# These are demo files for vsFilt (a tool to improve virtual screening by structural filtration of docking poses)
 
 __Publication:__ Irina V. Gushchina, Aleksandra M. Polenova, Dmitry A. Suplatov, Vytas K. Svedas, and Dmitry K. Nilov (2020)
 vsFilt: A Tool to Improve Virtual Screening by Structural Filtration of Docking Poses. 
