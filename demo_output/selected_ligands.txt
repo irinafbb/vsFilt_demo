@@ -1,0 +1,140 @@
+Total number of selected ligands = 17 (out of 8953).
+NUM                 ID     SCORE
+5596      ZINC79913389   -13.676
+6540      ZINC23702634   -13.577
+7506      ZINC40535629   -13.221
+7260      ZINC79913436   -13.001
+7482      ZINC13549855   -12.953
+5314      ZINC35999639   -12.816
+6100      ZINC00134868   -12.632
+443       ZINC11120739   -12.472
+6906      ZINC18244889   -12.345
+1602      ZINC89688964   -12.285
+5808      ZINC69744102   -12.068
+7885      ZINC18244894   -11.944
+3082      ZINC40527058   -11.897
+5743      ZINC72253053   -11.738
+3428      ZINC40527074   -11.680
+7136      ZINC79913432   -10.901
+366       ZINC02795562   -10.602
+
+--------------------------------------------------------------------------
+Detected interactions:
+--------------------------------------------------------------------------
+
+Ligand 5596 (ZINC79913389)
+CON (amide): N ... GLY863 (main): O, dist=2.93 (<=3.1) ang=159.1 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=2.90 (<=3.1) ang=170.7 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.40 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.57 (<=4.9)
+HPH (halogen): cl ... ALA898 (side): CB, dist=3.58 (<=4.8)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.48 (<=4.5)
+
+Ligand 6540 (ZINC23702634)
+CON (amide): N ... GLY863 (main): O, dist=2.92 (<=3.1) ang=161.7 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=2.97 (<=3.1) ang=174.1 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.50 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.74 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.49 (<=4.5)
+
+Ligand 7506 (ZINC40535629)
+CON (amide): N ... GLY863 (main): O, dist=2.95 (<=3.1) ang=159.3 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.07 (<=3.1) ang=168.3 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.81 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.55 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.28 (<=4.5)
+
+Ligand 7260 (ZINC79913436)
+CON (amide): N ... GLY863 (main): O, dist=2.67 (<=3.1) ang=161.4 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.08 (<=3.1) ang=166.8 (>=150.0)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=3.35 (<=4.9)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=4.85 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.19 (<=4.5)
+
+Ligand 7482 (ZINC13549855)
+CON (amide): N ... GLY863 (main): O, dist=2.86 (<=3.1) ang=161.0 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=2.99 (<=3.1) ang=170.4 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.65 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.45 (<=4.5)
+
+Ligand 5314 (ZINC35999639)
+CON (amide): N ... GLY863 (main): O, dist=2.90 (<=3.1) ang=158.0 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.05 (<=3.1) ang=178.5 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.64 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.26 (<=4.5)
+
+Ligand 6100 (ZINC00134868)
+CON (amide): N ... GLY863 (main): O, dist=3.09 (<=3.1) ang=158.9 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.00 (<=3.1) ang=163.0 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.74 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=3.93 (<=4.5)
+
+Ligand 443 (ZINC11120739)
+CON (amide): N ... GLY863 (main): O, dist=3.04 (<=3.1) ang=158.7 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.04 (<=3.1) ang=178.5 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.64 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.37 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.47 (<=4.5)
+
+Ligand 6906 (ZINC18244889)
+CON (amide): N ... GLY863 (main): O, dist=2.98 (<=3.1) ang=151.0 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.00 (<=3.1) ang=178.9 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.78 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.47 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.38 (<=4.5)
+
+Ligand 1602 (ZINC89688964)
+CON (amide): N ... GLY863 (main): O, dist=2.88 (<=3.1) ang=165.7 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.07 (<=3.1) ang=167.0 (>=150.0)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=3.93 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.45 (<=4.5)
+
+Ligand 5808 (ZINC69744102)
+CON (amide): N ... GLY863 (main): O, dist=2.88 (<=3.1) ang=158.8 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.01 (<=3.1) ang=180.0 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.56 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.88 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.33 (<=4.5)
+
+Ligand 7885 (ZINC18244894)
+CON (amide): N ... GLY863 (main): O, dist=2.94 (<=3.1) ang=165.7 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.04 (<=3.1) ang=177.5 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.81 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.52 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.43 (<=4.5)
+
+Ligand 3082 (ZINC40527058)
+CON (amide): N ... GLY863 (main): O, dist=2.84 (<=3.1) ang=166.1 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.08 (<=3.1) ang=179.4 (>=150.0)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.84 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.57 (<=4.9)
+HPH (halogen): f ... ALA898 (side): CB, dist=3.44 (<=4.4)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.46 (<=4.5)
+
+Ligand 5743 (ZINC72253053)
+CON (amide): N ... GLY863 (main): O, dist=2.73 (<=3.1) ang=154.9 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.09 (<=3.1) ang=168.6 (>=150.0)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=3.27 (<=4.9)
+HPH (aromatic): C ... ALA898 (side): CB, dist=4.87 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.17 (<=4.5)
+
+Ligand 3428 (ZINC40527074)
+CON (amide): N ... GLY863 (main): O, dist=2.81 (<=3.1) ang=152.8 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.04 (<=3.1) ang=150.1 (>=150.0)
+HPH (halogen): cl ... ALA898 (side): CB, dist=4.04 (<=4.8)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.33 (<=4.5)
+
+Ligand 7136 (ZINC79913432)
+CON (amide): N ... GLY863 (main): O, dist=2.76 (<=3.1) ang=152.7 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.01 (<=3.1) ang=154.4 (>=150.0)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=3.24 (<=4.9)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=4.61 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.20 (<=4.5)
+
+Ligand 366 (ZINC02795562)
+CON (amide): N ... GLY863 (main): O, dist=2.86 (<=3.1) ang=153.3 (>=150.0)
+CON (amide): O ... GLY863 (main): N, dist=3.09 (<=3.1) ang=170.7 (>=150.0)
+HPH (aliphatic): C ... ALA898 (side): CB, dist=3.38 (<=4.9)
+STK (aromatic): centroid ... TYR907 (side): centroid, dist=4.33 (<=4.5)
+
+EOF
